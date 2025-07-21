@@ -37,6 +37,7 @@ My interests lie at the intersection of technology, innovation, and social impac
 
 ### Achievements
 
+- Secured Second Position at **Hack4Health Hackathon**
 - Secured Third Prize at **InnovEarth Ideathon** (NSUT) for *ThyroidAI*  
 - Finalist at **PitchDesk Competition** (IIIT-Delhi)  
 - Finalist at **Hack4Health Hackathon** (IIIT-Delhi, 2025)  
